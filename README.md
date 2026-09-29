@@ -12,7 +12,7 @@ A retailer with thousands of SKUs can't manage every product with the same level
 
 ## Data source
 
-[Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail) (Kaggle) — real transaction-level sales data from a UK-based online retailer. 541,909 raw transaction lines, cleaned down to 3,801 unique products after removing cancelled orders, non-product entries (postage, fees), and rows with missing descriptions or non-positive prices (documented in `data/registros_descartados.csv`).
+[Online Retail Dataset](https://www.kaggle.com/datasets/vijayuv/onlineretail) (Kaggle) — real transaction-level sales data from a UK-based online retailer. 541,909 raw transaction lines, cleaned down to 3,801 unique products after removing cancelled orders, non-product entries (postage, fees), and rows with missing descriptions or non-positive prices.
 
 ## Methodology
 
